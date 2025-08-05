@@ -1,4 +1,4 @@
-# RWSDK VS Code Theme 🌲
+# RWSDK Light Theme 🌲
 
 ![]()
 
@@ -12,7 +12,7 @@ A Visual Studio Code theme for developers that like to write code quickly. Color
 4. Search for **RWSDK**
 5. Click Install to install it
 6. Click Reload to reload the Code
-7. From the menu bar click: **Code > Preferences > Color Theme > RWSDK**
+7. From the menu bar click: **Code > Preferences > Color Theme > RWSDK Light**
 
 ## Other Versions
 
@@ -36,14 +36,6 @@ A Visual Studio Code theme for developers that like to write code quickly. Color
     "sideBar.border": "#102a44",
     "sideBar.foreground": "#8BADC1"
   },
-  "[RWSDK (No Italics)]": {
-    "activityBar.background": "#000C1D",
-    "activityBar.border": "#102a44",
-    "editorGroup.border": "#102a44",
-    "sideBar.background": "#001122",
-    "sideBar.border": "#102a44",
-    "sideBar.foreground": "#8BADC1"
-  }
 },
 ```
 
@@ -70,7 +62,7 @@ I use this setting:
 
 If you see something "off", please feel free to file an issue! I'm sure there are things I missed.
 
-Any relevant changes for each version are documented in the [changelog](./CHANGELOG.md). Please update and check the changelog before [filing any issues](https://github.com/ahaywood/RWSDK-VS-Code-Theme/issues?q=sort:updated-desc+is:issue+is:open), as they may have already been taken care of.
+Any relevant changes for each version are documented in the [changelog](./CHANGELOG.md). Please update and check the changelog before [filing any issues](https://github.com/ahaywood/rwsdk-vs-light-code-theme/issues?q=sort:updated-desc+is:issue+is:open), as they may have already been taken care of.
 
 ## Acknowledgements
 

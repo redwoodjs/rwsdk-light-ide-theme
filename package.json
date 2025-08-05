@@ -5,17 +5,17 @@
   "contributes": {
     "themes": [
       {
-        "label": "RWSDK",
-        "path": "./themes/rwsdk-color-theme.json",
+        "label": "RWSDK Light",
+        "path": "./themes/rwsdk-light-color-theme.json",
         "uiTheme": "vs-light"
       }
     ]
   },
-  "description": "A VS Code light theme for RedwoodSDK",
-  "displayName": "RWSDK VS Code Theme",
+  "description": "A light theme for RWSDK",
+  "displayName": "RWSDK Light",
   "engines": {
     "vscode": "^1.73.0"
   },
-  "name": "rwsdk-vs-code-theme",
+  "name": "rwsdk-light",
   "version": "0.0.1"
 }
