@@ -1,3 +1,8 @@
 {
-  "python.linting.enabled": false
+  "python.linting.enabled": false,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#d54b40",
+    "titleBar.activeBackground": "#d54b40",
+    "titleBar.activeForeground": "#f0dfc4"
+  }
 }
