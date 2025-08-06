@@ -37,12 +37,24 @@
     // List error text color
     "list.errorForeground": "#802c43",
 
+    // Notification list styling
+    "notificationCenter.border": "#dee2e6",
+    "notificationCenterHeader.background": "#fff4df",
+    "notificationCenterHeader.foreground": "#495057",
+    "notificationToast.border": "#dee2e6",
+    "notifications.background": "#ffffff",
+    "notifications.foreground": "#495057",
+    "notifications.border": "#dee2e6",
+    "notificationsErrorIcon.foreground": "#d54b40",
+    "notificationsWarningIcon.foreground": "#f3b15c",
+    "notificationsInfoIcon.foreground": "#e47947",
+
     // Status bar
     "statusBar.background": "#802c43",
     "statusBar.foreground": "#ffffff",
 
     // Toolbar buttons
-    "toolbar.hoverBackground": "#e47947",
+    "toolbar.hoverBackground": "#f3b15c",
     "toolbar.hoverOutline": "#ffd700",
     "toolbar.activeBackground": "#ffd700",
 
@@ -54,7 +66,7 @@
     // Button styling
     "button.background": "#e47947",
     "button.foreground": "#fff4df",
-    "button.hoverBackground": "#fff3cd",
+    "button.hoverBackground": "#d54b40",
 
     // Action bar (toolbar icons)
     "actionBar.toggledBackground": "#ffd700",
@@ -68,6 +80,8 @@
     // Tab bar container
     "editorGroupHeader.tabsBackground": "#fff5e0",
     "editorGroupHeader.tabsBorder": "#F7ECD6",
+
+    "textCodeBlock.background": "#fbe5c8",
 
     // Tab border
     "tab.border": "#F7ECD6",
@@ -89,8 +103,8 @@
     "list.inactiveSelectionForeground": "#fff4df",
 
     // Hover states
-    "list.hoverBackground": "#ffdd8e",
-    "list.hoverForeground": "#495057",
+    "list.hoverBackground": "#d54b40",
+    "list.hoverForeground": "#fbe5c8",
 
     // Focus states
     "list.focusBackground": "#ffd700",
@@ -568,14 +582,14 @@
         "punctuation.definition.list_item.markdown"
       ],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#802c43"
       }
     },
     {
       "name": "Markdown - Markup Raw Inline",
       "scope": ["text.html.markdown markup.inline.raw.markdown"],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#8338ec"
       }
     },
     {
@@ -595,7 +609,7 @@
         "markup.heading.markdown punctuation.definition.heading.markdown"
       ],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#7ac750"
       }
     },
     {
@@ -669,7 +683,7 @@
       "name": "Markdown - Link Anchor",
       "scope": ["constant.other.reference.link.markdown"],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#d54b40"
       }
     },
     {
@@ -723,7 +737,7 @@
       "name": "Markup - Table",
       "scope": ["markup.table"],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#d54b40"
       }
     },
     {
@@ -743,5 +757,17 @@
         "fontStyle": "bold"
       }
     }
-  ]
+  ],
+  "editor.tokenColorCustomizations": {
+    "[RWSDK Light]": {
+      "textMateRules": [
+        {
+          "scope": "mtk3",
+          "settings": {
+            "foreground": "#e47947"
+          }
+        }
+      ]
+    }
+  }
 }
