@@ -1,12 +1,12 @@
-# Night Owl Theme
+# RWSDK Light Theme
 
-> Night Owl theme for VS Code.
+> RWSDK light theme for VS Code.
 
 ![Preview](images/preview.gif)
 
 # Installation
 
-1.  Install [Visual Studio Code](https://code.visualstudio.com/)
+1.  Install [Visual Studio Code](https://code.visualstudio.com)
 2.  Launch Visual Studio Code
 3.  Choose **Extensions** from menu
 4.  Search for `night-owl`
@@ -17,10 +17,10 @@
 -[ ] check check 12 12
 -[ ] check check 12 12
 
-Heading 1
+# Heading 1
 ========
 
-Heading 2
+## Heading 2
 --------------
 
 ### Heading 3
