@@ -4,6 +4,6 @@ All notable changes to the "rwsdk-light" extension will be documented in this fi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## August 5, 2025
+## August 18, 2025
 
 - Initial release

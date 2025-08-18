@@ -1,8 +1,8 @@
 # RWSDK Light Theme 🌲
 
-![]()
+![](./images/rwsdk-light-theme.png)
 
-A Visual Studio Code theme for developers that like to write code quickly. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and optimized with sparkle and shine. ✨
+The RWSDK Light Theme brings RedwoodSDK's warm, earthy branding into your coding environment. With its signature orange (#e47947), rich earth tones, and cream background (#FFFAF3), this theme delivers excellent readability while reducing eye strain during long coding sessions. Perfect for developers who want their VS Code to reflect RedwoodSDK's distinctive brand identity without sacrificing productivity.
 
 ## Installation
 
@@ -48,15 +48,11 @@ The font in the preview image is Dank Mono, [available here](https://dank.sh/). 
 "editor.fontLigatures": true,
 ```
 
-The preview image is using [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer), a really cool extension that highlights matching brackets. This can help reduce unwanted errors.
-
 I use this setting:
 
 ```json
 "bracketPairColorizer.forceIterationColorCycle": true,
 ```
-
-![]()
 
 ## Miscellaneous
 
