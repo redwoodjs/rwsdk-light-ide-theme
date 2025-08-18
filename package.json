@@ -16,6 +16,10 @@
   "engines": {
     "vscode": "^1.73.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/redwoodjs/rwsdk-light-vs-code-theme.git"
+  },
   "name": "rwsdk-light",
   "version": "0.0.1"
 }
