@@ -1,4 +1,5 @@
 {
+  "publisher": "RedwoodSDK",
   "categories": [
     "Themes"
   ],
@@ -21,5 +22,6 @@
     "url": "https://github.com/redwoodjs/rwsdk-light-vs-code-theme.git"
   },
   "name": "rwsdk-light",
-  "version": "0.0.1"
+  "version": "0.0.2",
+  "icon": "./images/RWSDK-light-icon.png"
 }
